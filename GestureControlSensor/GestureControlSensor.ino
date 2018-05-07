@@ -4,7 +4,7 @@
 // Public Domainv
 #include<Wire.h>
 
-#include "AccSensor.h"
+#include "Sensor.h"
 //#include "Mqtt.h"
 
 

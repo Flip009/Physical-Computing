@@ -1,5 +1,5 @@
-#ifndef AccSensor_h
-#define AccSensor_h
+#ifndef Sensor_h
+#define Sensor_h
 
 #include <Wire.h>
 // Defines for easy Use
